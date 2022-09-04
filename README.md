@@ -12,4 +12,4 @@ The targets are labelled one (or zero) depending on whether the absenteeism time
 
 Logistic regression, boosted decision tree, random forest, k-nearest neighbor, naive bayes models are implemented after performing grid search cross-validation. Feature importances are studied to identify major contributing causes so that those employee pain points can be addressed.
 
-Check model_exploration notebook for details on the model fitting. An absenteeism class performing ETL and returning predictions for a trained model has also been created for simplicity can be seen in the integration notebook. 
+Check model_exploration notebook for details on the model fitting. An absenteeism class performing ETL and returning predictions for a trained model has also been created for simplicity and can be seen in the integration notebook. 
